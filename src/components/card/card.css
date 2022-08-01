@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.cardComponent{
+    background-color: #88d3d2;
+    width: 20%;
+    text-align: center;
+    padding: 1%;
+    margin: 1% 1%;
+}
+.cardComponent img{
+    width: 90%;
+}
+
+.cardComponent h1, .cardComponent p{
+    font-family: Lato;
+}
+
+.cardComponent h1{
+    font-size: calc(1em + 0.5vw);
+}
+.cardComponent p{
+    font-size: calc(0.4em + 1vw);
+}
+
+.cardComponent:hover{
+    width: 22%;
+}

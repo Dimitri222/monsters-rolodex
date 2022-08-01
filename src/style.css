@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&display=swap');
+
+body{
+    background: linear-gradient(to right, #257071 ,#081d48);
+    text-align: center;
+}
+.heading{
+    font-family: Cormorant SC;
+    font-weight: 900;
+    color: #43c3b9;
+    font-size: calc( 40px + 10px);
+}
